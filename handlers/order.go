@@ -13,3 +13,6 @@ func CalculateSubtotal(items []OrderItem) float64 {
 	}
 	return total
 }
+
+// feat(orders): add 15% VIP checkout promotion rule
+// feat: 15% VIP promo
